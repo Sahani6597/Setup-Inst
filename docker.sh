@@ -42,4 +42,6 @@ echo "Verifying Docker installation..."
 docker --version
 
 echo "Docker installed successfully!"
-echo "Please log out and log back in to use Docker without sudo."
+echo "Please log out and log back in to use Docker without sudo."git remote add origin https://github.com/Sahani6597/Docker.git
+git branch -M main
+git push -u origin main
